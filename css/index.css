@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Libre";
+    src: url('../fonts/Itim/Itim-Regular.ttf');
+    /* src:url('../fonts/') */
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Libre";
+    font-size: 3vw;
+}
+
+section{
+    background: linear-gradient(rgb(157, 15, 44), gray);
+    width: 50vw;
+    height: 70vh;
+    position: relative;
+    left: 25vw;
+    top: 15vh;
+    border-radius: 10vw;
+}
+
+
+ul{
+    padding-left: 15vw;
+    padding-top: 25vh;
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+li{
+    list-style-type: none;
+    /* QUITA VIÑETAS EL LIST STYLE TYPE */
+}

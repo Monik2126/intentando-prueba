@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+    width: 100vw;
+    height: 80vh;
+    background-color: aquamarine;
+}
+
+/* static */
+#estatico{
+    width: 10vw;
+    height: 15vh;
+    background-color: blueviolet;
+    /* position: static; */
+}
+
+/* relative
+top
+lef
+right
+bottom */
+#relativo{
+    width: 10vw;
+    height: 15vh;
+    background-color: rgb(25, 25, 232);
+    /* position:relative; */
+   
+}
+
+/* absolute
+top
+lef
+right
+bottom */
+#absoluto{
+    width: 10vw;
+    height: 15vh;
+    background-color: orangered;
+    /* position:absolute; */
+    
+}
+
+/* fixed
+top
+lef
+right
+bottom */
+#fijo{
+    width: 10vw;
+    height: 15vh;
+    background-color: rgb(245, 220, 237);
+    /* position:fixed; */
+   
+}

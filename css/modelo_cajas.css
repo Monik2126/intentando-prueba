@@ -1,0 +1,21 @@
+#d1{
+    width: 30vw;
+    height: 10vh;
+    border-color: blueviolet; 
+    border-width: 0.1vw;
+    border-style: solid;
+}
+
+#d2{
+    width: 30vw;
+    height: 10vh;
+    border: grosor línea color
+    border: 2px solid palevioletred; 
+    margin-top: 2vh;
+    padding: 3vw;
+    border-color: lawngreen blue orange red;
+    border-width: 0.1vw  0.2vh 0.3vw 0.4vh;
+    border-style: groove dotted double solid ;
+    
+
+}
